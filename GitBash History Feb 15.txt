@@ -1,0 +1,192 @@
+$ history
+    1  cd c:users/occs
+    2  ls-al
+    3  mk dir Delacerna_Workspace
+    4  cd c:users/occs/documents/Workspace-Delacerna
+    5  git config --global user.email 'Cattophillae09@gmail.com'
+    6  git config --global user.name 'Cattophillae09@gmail.co'
+    7  git config --global user.name 'Phillae'
+    8  git config --global user.name
+    9  git config --global user.email
+   10  git.scm.com
+   11  cd
+   12  cd documents
+   13  ls
+   14  touch delacerna.md
+   15  git status
+   16  mkdir
+   17  mkdir -makefolder
+   18  mkdir Delacerna
+   19  cd documents/Delacerna
+   20  mkdir Delacerna
+   21  cd c:users/occs/documents/Delacerna
+   22  mkdir Delacerna
+   23  cd c:users/occs/documents/Delacerna
+   24  cd ..
+   25  ls
+   26  ls-al
+   27  ls -al
+   28  touch readme.md
+   29  cd c:users/occs/documents/Delacerna
+   30  touch readme.md
+   31  git init
+   32  git status
+   33  git commit -m "Delacerna Feb15"
+   34  git branch
+   35  git add .
+   36  git status
+   37  git add . ReadME.md
+   38  git commit -m "February 15"
+   39  git branch
+   40  git branch -m main
+   41  git status
+   42  git commit -m "Delacerna Feb15"
+   43  git commit -m "Delacerna Feb15"
+   44  git commit -m "Delacerna Feb15"
+   45  git add .
+   46  git commit -m "Delacerna Feb15"
+   47  git commit -m "Delacerna Feb15"
+   48  git push
+   49  git reset
+   50  git init
+   51  git add .
+   52  git commit -m "15"
+   53  git remote add origin https://github.com/Phillae/Delacerna.git
+   54  git status
+   55  git commit -m "155"
+   56  git branch
+   57  git push -u origin main
+   58  git push -u origin main
+   59  git pull
+   60  git push -u origin main
+   61  git branch
+   62  git commit -m "155"
+   63  git remote add origin https://github.com/Phillae/Delacerna.git
+   64  git push -u origin main
+   65  git status
+   66  git status
+   67  git add .
+   68  git status
+   69  git commit -m "car"
+   70  git push
+   71  git push --set-upstream origin main
+   72  git push
+   73  git push --set-upstream origin main
+   74  git branch\
+   75  git push
+   76  git push --set-upstream origin main
+   77  git commit -m "Picute"
+   78  git status
+   79  git add .
+   80  git push --set-upstream origin main
+   81  git push -u origin main
+   82  git pull
+   83  git remote add origin https://github.com/Phillae/Delacerna.git
+   84  git push -u origin main
+   85  git push
+   86  git push --set-upstream origin main
+   87  cd c:users/occs/documents
+   88  git config --global user.name "Phillae"
+   89  git config --global user.email "Cattophillae09@gmail.com"
+   90  git init
+   91  git rm Delacerna.txt
+   92  touch delacerna.md\
+   93  touch delacerna.md
+   94  ls
+   95  git status
+   96  git commit -m "February 15"
+   97  git add .
+   98  git config --global user.name 'Cattophillae09@gmail.com'
+   99  git config --global user.name 'Phillae'
+  100  git config --global user.email 'Cattophillae09@gmail.com'
+  101  cd c:/users/occs/documents
+  102  mk dir Delacerna
+  103  cd c:/users/occs/documents/Delacerna
+  104  ls
+  105  git status
+  106  git branch
+  107  git branch feature1
+  108  git branch
+  109  git branch -M main
+  110  git remote add origin https://github.com/Phillae/Workspace_Delacerna.git
+  111  git status
+  112  git push -u origin main
+  113  git commit -m "DELACERNA"
+  114  git add .
+  115  git config --global user.email 'Cattophillae09@gmail.com"
+  116  '
+  117  git config --global user.email 'Cattophillae09@gmail.com'
+  118  git config --global user.name 'Phillae'
+  119  cd c: user/occs/documents/Delacerna-Workspace
+  120  cd c:/user/occs/documents/Delacerna-Workspace
+  121  cd c:/user/occs/documents/Delacerna-Workspace
+  122  cd c:/user/occs/documents/Delacerna-Workspace
+  123  cd c:/user/occs/documents/Delacerna
+  124  cd c:/user/occs/documents/Delacerna
+  125  git init
+  126  cd c:/user/occs/documents/Delacerna-Workspace
+  127  cd c:/user/occs/documents/Delacerna
+  128  git config --global user.email 'Cattophillae09@gmail.com'
+  129  git config --global user.name 'Phillae'
+  130  cd c:/user/occs/documents
+  131  cd: users/occs/documents
+  132  git init
+  133  cd c:/users/occs/documents
+  134  cd c:/users/occs/documents/Delacerna-Workspace
+  135  cd c:/users/occs/documents/Delacerna
+  136  cd c:/users/occs/documents/
+  137  cd c:/users/occs/documents/Delacerna
+  138  cd c:/users/occs/documents/
+  139  mkdir Delacer-Workspace
+  140  cd c:/users/occs/documents/Delacer-Workspace
+  141  touch Delacerna.txt
+  142  touch ReadMe.me
+  143  git init
+  144  git branch -M main
+  145  git remote add origin https://github.com/Phillae/Delacer-Workspace.git
+  146  git push -u origin main
+  147  git add .
+  148  git push -u origin main
+  149  git remote add origin https://github.com/Phillae/Delacer-Workspace.git
+  150  git status
+  151  git add .
+  152  git commit -m "Pangalawang Ulit"
+  153  git push
+  154  git push --set-upstream origin main
+  155  git add .
+  156  git status
+  157  git push
+  158  git commit "Cars naman to"
+  159  git commit -m "Cars naman to"
+  160  git add .
+  161  git status
+  162  git push
+  163  git branch -m Feature1
+  164  git
+  165  touch Jayme.txt
+  166  git add .
+  167  git commit -m "pangatlo na"
+  168  git push
+  169  git push -u origin feature1
+  170  git push -u origin Feature1
+  171  git branch Feature2
+  172  git checkout
+  173  git checkout Feature2
+  174  touch Jomarie.txt
+  175  git commit -m "pang-apat na"
+  176  git add .
+  177  git status
+  178  git push -u origin Feature2
+  179  touch tigson
+  180  git add .
+  181  git commit -m "pang-apat na"
+  182  git push -u origin Feature2
+  183  touch MEOWA
+  184  git add .
+  185  git commit -m "Panglima na"
+  186  git push -u origin Feature2
+  187  git status
+  188  git push -u origin Feature2
+  189  git add .
+  190  git push -u origin Feature2
+  191  history
